@@ -1,5 +1,6 @@
 ---
-title: Blogging
+published: true
+title: Blogging Test
 ---
 
 ## Blogging
